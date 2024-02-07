@@ -43,6 +43,7 @@ The project adheres to certain content-formatting and quality standards for cons
     - Each resource should be added in the following format:
         ```
         - [**Resource Name**](Resource URL) - *Short Description*
+        - [Pytorch](https://www.youtube.com/watch?v=V_xro1bcAuA) - Learn Pytorch
         ```
     - Replace **Resource Name** with the actual name of the tool and **Resource URL** with the link to the tool.
     - Provide a brief *Short Description* highlighting the tool's purpose or key features.
