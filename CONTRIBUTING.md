@@ -53,7 +53,7 @@ The project adheres to certain content-formatting and quality standards for cons
     - Add the file inside the assets folder
     - Use the following format in the appropriate section of the `README.md` file:
         ```
-        - [**Resource Name**](assets/name_of_the_file) - *Short Description*
+        - [Pytorch](https://www.youtube.com/watch?v=V_xro1bcAuA) - Learn Pytorch
         ```
     - Replace **Resource Name** with the actual name of the tool.
     - Replace **name_of_the_file** with the name of the file you added in the `assets` folder.
